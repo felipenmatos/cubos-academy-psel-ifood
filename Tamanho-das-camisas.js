@@ -11,5 +11,5 @@ function solucao(tamanhoBr) {
     } else {
         console.log("XL")
     }
-  }
+}
   
